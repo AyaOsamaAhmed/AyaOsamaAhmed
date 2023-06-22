@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-  Welcome to Aya Osama Ahmed's profile!
+  Welcome to Aya Osama Ahmed's profile! <br>
   Senior Android Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
